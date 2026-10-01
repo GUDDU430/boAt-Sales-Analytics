@@ -1,0 +1,41 @@
+# Database
+*.db
+
+# Generated data (can be regenerated from scripts)
+boat_sales_data.csv
+boat_sales_cleaned.csv
+
+# Temporary/generated images
+page1_original.png
+page1_test.png
+page1_updated.png
+
+# Duplicate/generated PDFs
+boAt_Case_Study.pdf
+boAt_Professional_Report.pdf
+1783275113829.pdf
+boAt_Case_Study_Final.pdf
+
+# PDF generation utility scripts
+generate_case_study_pdf.py
+generate_professional_report.py
+edit_sample_pdf.py
+
+# Data generation script
+generate_boat_data.py
+
+# Chart exports (dashboard screenshot is sufficient)
+charts/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+Thumbs.db
+.DS_Store
